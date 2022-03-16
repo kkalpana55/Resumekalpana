@@ -17,8 +17,8 @@ public class paralleltesting  extends basetest
 	public void tc5() throws IOException, InterruptedException, EncryptedDocumentException, InvalidFormatException {
 		
 		loginpage lp=new loginpage(driver,wc);
-		lp.email("companyadmin@agilityhealthradar.com");
-		lp.password("temp1234");
+		lp.email("..........");
+		lp.password(".........");
 		lp.login();
 		Reporter.log("Agile Login Page");
 		lp.exports();
