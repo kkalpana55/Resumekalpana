@@ -22,7 +22,7 @@ public class testcase1 extends basetest{
 		
 		exportteampage lp=new exportteampage(driver,wc);
 		lp.email("kkalpana55@gmail.com");
-		lp.password("temp1234");
+		lp.password(".....");
 		lp.login();
 		JavascriptExecutor js =(JavascriptExecutor) driver;
 		js.executeScript("window.scrollBy(0,600)");	
