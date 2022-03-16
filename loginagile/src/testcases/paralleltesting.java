@@ -28,7 +28,7 @@ public class paralleltesting  extends basetest
 				
 		/*loginpage lp1=new loginpage(driver1,wc);
 		lp1.email("companyadmin@agilityhealthradar.com");
-		lp1.password("temp1234");
+		lp1.password(".......");
 		lp1.login();
 		Reporter.log("Agile Login Page");		
 		lp1.exports();
