@@ -18,7 +18,7 @@ public class exceltestcase extends basetest {
 		exportteampage ex=new exportteampage(driver,wc);
 		//String downloadPath = "C:\\Users\\User\\Downloads";
 		ex.email("kkalpana55@gmail.com");
-		ex.password("temp1234");
+		ex.password(".....");
 		ex.login();
 		ex.exports();
 		Thread.sleep(2000);
