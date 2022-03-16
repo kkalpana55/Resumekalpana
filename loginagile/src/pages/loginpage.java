@@ -38,11 +38,11 @@ private WebElement excelexport;
 	
 	public void email(String ename) {
 		wc.typeText(email,ename);
-	//email.sendKeys("kkalpana55@gmail.com");
+	//email.sendKeys(".............");
 	}
 	
 public void password(String pname) {
-		//password.sendKeys("temp1234");
+		//password.sendKeys("......");
 		wc.typeText(password,pname);
 	}
 public void login() {
